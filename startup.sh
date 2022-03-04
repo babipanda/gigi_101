@@ -1,7 +1,7 @@
 echo ">> FETCHING UPSTREAM..."
 git clone https://github.com/babipanda/gigi_101 /gigi_101 
 echo ">> INSTALLING REQUIREMENTS..."
-cd /MusicPlayer
+cd /gigi_101
 pip3 install -U -r requirements.txt
 echo ">> STARTING MUSIC PLAYER USERBOT..."
 clear
