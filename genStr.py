@@ -1,6 +1,6 @@
 """
 GiGi 101, Telegram Voice Chat Bot
-Copyright (c) 2021  Asm Safone <https://github.com/AsmSafone>
+Copyright (c) 2022-present babipanda <https://github.com/babipanda>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published by
