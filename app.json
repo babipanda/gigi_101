@@ -29,7 +29,7 @@
         "required": false
       },
       "SESSION": {
-        "description": "Pyrogram session string, get it from https://replit.com/@AsmSafone/genStr",
+        "description": "Pyrogram session string, get it from genStr.py",
         "required": true
       },
       "SUDOERS": {

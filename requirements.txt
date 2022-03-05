@@ -8,4 +8,4 @@ tgcrypto
 python-dotenv
 py-tgcalls==0.8.6
 youtube-search-python
-git+https://github.com/asmsafone/downloader
+git+https://github.com/babipanda/gigi_you_tube_downloader

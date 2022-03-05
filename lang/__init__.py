@@ -1,6 +1,6 @@
 """
-Music Player, Telegram Voice Chat Bot
-Copyright (c) 2021-present Asm Safone <https://github.com/AsmSafone>
+GiGi 101, Telegram Voice Chat Bot
+Copyright (c) 2022-present babipanda <https://github.com/babipanda>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published by
@@ -20,8 +20,8 @@ import json
 
 # import os
 # print("Current working directory: {0}".format(os.getcwd()))
-# for f in os.listdir("C:/Projects/Tryouts/etc"):
-# 	print(f)
+# for f in os.listdir("/home/annu/Natan/Python/BOt/Test_1"):
+	# print(f)
 
 def load(lang):
     return json.load(open(f"./lang/en.json", "r"))

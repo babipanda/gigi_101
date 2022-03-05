@@ -1,5 +1,5 @@
 """
-Music Player, Telegram Voice Chat Bot
+GiGi 101, Telegram Voice Chat Bot
 Copyright (c) 2021  Asm Safone <https://github.com/AsmSafone>
 
 This program is free software: you can redistribute it and/or modify
