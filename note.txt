@@ -1,2 +1,4 @@
 deploy app git to heroku
 https://heroku.com/deploy?template=https://github.com/babipanda/gigi_101
+
+git changing to main branch
